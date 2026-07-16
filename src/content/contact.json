@@ -1,13 +1,8 @@
 {
   "email": {
-    "title": "me@jjasf.pt",
-    "url": "mailto:me@jjasf.pt",
+    "title": "ritagama199@gmail.com",
+    "url": "mailto:ritagama199@gmail.com",
     "icon": "ui/mail.svg"
-  },
-  "website": {
-    "title": "jjasf.pt",
-    "url": "https://jjasf.pt",
-    "icon": "ui/globe.svg"
   },
   "location": {
     "title": "Lisbon, Portugal",
@@ -15,13 +10,13 @@
     "icon": "ui/mappin.svg"
   },
   "github": {
-    "title": "jjasferreira",
-    "url": "https://github.com/jjasferreira",
+    "title": "rita-gama",
+    "url": "https://github.com/rita-gama",
     "icon": "tech/github.svg"
   },
   "linkedin": {
-    "title": "jjasferreira",
-    "url": "https://linkedin.com/in/jjasferreira",
+    "title": "Rita Gama",
+    "url": "https://linkedin.com/in/rita-gama",
     "icon": "tech/linkedin.svg"
   }
 }
