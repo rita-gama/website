@@ -1,307 +1,48 @@
 {
   "contributions": {
-    "black": {
-      "time": "10/24",
-      "description": "A tool for testing the satisfiability of formulas in LTL, where I fixed a mistake in the documentation",
-      "url": "https://github.com/black-sat/black",
-      "icon": "github.svg"
-    },
-    "resumos-leic": {
-      "time": "02/22 - 02/23",
-      "description": "A website for Computer Science and Engineering class notes, where I enhanced course pages by improving text, images, and layout",
-      "url": "https://github.com/leic-pt/resumos-leic",
-      "icon": "github.svg"
-    },
-    "metastream": {
-      "time": "07/22",
-      "description": "A streaming website for watching media synchronously with friends, where I added a Portuguese locale",
-      "url": "https://github.com/samuelmaddock/metastream",
+    "nextcloud": {
+      "time": "06/23",
+      "description": "Calendar app for Nextcloud",
+      "url": "https://github.com/nextcloud/calendar",
       "icon": "github.svg"
     }
   },
   "personal": {
-    "website": {
-      "time": "05/26",
-      "description": "My continuously in progress personal website",
-      "url": "https://github.com/jjasferreira/website",
+    "robotics": {
+      "time": "03/25",
+      "description": "",
+      "url": "https://github.com/Paulomen2712/astroninjas",
       "icon": "github.svg",
-      "frameworks": [
-        "astro",
-        "sveltejs",
-        "tailwindcss"
-      ],
+      "frameworks": [],
       "programming": [
-        "javascript",
-        "typescript",
-        "html",
-        "css"
+        "cplusplus"
       ],
       "tools": []
     },
-    "ucl-simulator": {
-      "time": "06/24",
-      "description": "A visual simulator for the new complicated format of the 2024/2025 UEFA Champions League",
-      "url": "https://github.com/jjasferreira/ucl-simulator",
+    "inar": {
+      "time": "06/23",
+      "description": "A project which aims to build a robot face which can mimic human expressions.",
+      "url": "https://github.com/HackerSchool/inar",
       "icon": "github.svg",
-      "frameworks": [
-        "sveltejs",
-        "tailwindcss"
-      ],
+      "frameworks": [],
       "programming": [
-        "javascript",
-        "html",
-        "css"
+        "python"
       ],
-      "tools": [
-        "nodejs"
-      ]
-    },
-    "kuvbot": {
-      "time": "08/22",
-      "description": "A Twitter bot that likes tweets with #Photography occasionally and tweets an image every 3 hours, assigns it its author and tags it with a word and the respective guess confidence percentage using APIs",
-      "url": "https://github.com/jjasferreira/kuvbot-py",
+      "tools": []
+    }
+  },
+  "academic": {
+    "gainpro": {
+      "time": "06/26",
+      "description": "",
+      "url": "https://github.com/QuantitativeBiology/GainPro",
       "icon": "github.svg",
       "frameworks": [],
       "programming": [
         "python"
       ],
       "tools": [
-        "vscode"
-      ]
-    }
-  },
-  "academic": {
-    "specialvfx-cloud": {
-      "time": "05/24",
-      "description": "A cloud-based, auto-scaling multimedia processing platform with custom load balancing across distributed instances",
-      "url": "https://github.com/jjasferreira/specialvfx-cloud-java",
-      "icon": "github.svg",
-      "frameworks": [],
-      "programming": [
-        "java",
-        "shell"
-      ],
-      "tools": [
-        "aws",
-        "maven",
-        "vscode"
-      ]
-    },
-    "metacircular-evaluator": {
-      "time": "03/24",
-      "description": "A meta-circular evaluator with reflection and metaprogramming properties for a subset of Julia",
-      "url": "https://github.com/jjasferreira/meta-circular-evaluator-jl",
-      "icon": "github.svg",
-      "frameworks": [],
-      "programming": [
-        "julia"
-      ],
-      "tools": [
-        "vscode"
-      ]
-    },
-    "eu-vehicles": {
-      "time": "10/23",
-      "description": "A dashboard mapping EU electric vehicle trends against socio-economic indexes and pollutant emissions",
-      "url": "https://github.com/jjasferreira/eu-vehicles-js",
-      "icon": "github.svg",
-      "frameworks": [
-        "tailwindcss"
-      ],
-      "programming": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "tools": [
-        "nodejs"
-      ]
-    },
-    "robotruck-ufo": {
-      "time": "06/23",
-      "description": "Two interactive, user-controllable 3D scenes featuring a robot-truck with a trailer, and a UFO in the countryside",
-      "url": "https://github.com/jjasferreira/robotruck-ufo-js",
-      "icon": "github.svg",
-      "frameworks": [
-        "threejs"
-      ],
-      "programming": [
-        "javascript",
-        "html",
-        "css"
-      ],
-      "tools": [
-        "vscode"
-      ]
-    },
-    "distributed-ledger": {
-      "time": "04/23",
-      "description": "A distributed ledger for transactions using Protocol Buffers for service contracts and message serialization",
-      "url": "https://github.com/jjasferreira/distributed-ledger",
-      "icon": "github.svg",
-      "frameworks": [
-        "grpc"
-      ],
-      "programming": [
-        "java"
-      ],
-      "tools": [
-        "maven",
-        "intellij"
-      ]
-    },
-    "quizzes-dashboard": {
-      "time": "04/23",
-      "description": "A teacher dashboard featuring offline-calculated statistics and comparative charts across course executions",
-      "url": "https://github.com/jjasferreira/quizzes-dashboard",
-      "icon": "github.svg",
-      "frameworks": [
-        "vuejs",
-        "hibernate"
-      ],
-      "programming": [
-        "java",
-        "groovy",
-        "javascript",
-        "typescript"
-      ],
-      "tools": [
-        "spock",
-        "cypress",
-        "jmeter",
-        "buildbot"
-      ]
-    },
-    "hangman-socket": {
-      "time": "12/22",
-      "description": "A robust client-server implementation of the Hangman game using sockets to manage game states and scoreboards",
-      "url": "https://github.com/jjasferreira/hangman-socket-cpp",
-      "icon": "github.svg",
-      "frameworks": [],
-      "programming": [
-        "cplusplus",
-        "makefile"
-      ],
-      "tools": [
-        "vscode"
-      ]
-    },
-    "data-exploration": {
-      "time": "11/22",
-      "description": "A set of programming problems that cover neural networks, decision trees, kNN, clustering, and more ML topics",
-      "url": "https://github.com/jjasferreira/data-exploration-py",
-      "icon": "github.svg",
-      "frameworks": [],
-      "programming": [
-        "python",
-        "tex"
-      ],
-      "tools": [
-        "jupyter",
-        "vscode"
-      ]
-    },
-    "ivm-manager": {
-      "time": "06/22",
-      "description": "A highly secure, server-side Intelligent Vending Machine manager accessible by a modern web application",
-      "url": "https://github.com/jjasferreira/ivm-manager-pgsql",
-      "icon": "github.svg",
-      "frameworks": [
-        "flask",
-        "bootstrap"
-      ],
-      "programming": [
-        "python",
-        "sql",
-        "html",
-        "css"
-      ],
-      "tools": [
-        "postgresql",
-        "vscode"
-      ]
-    },
-    "takuzu": {
-      "time": "06/22",
-      "description": "A program that solves the Takuzu problem using Artificial Intelligence search techniques",
-      "url": "https://github.com/jjasferreira/takuzu-py",
-      "icon": "github.svg",
-      "frameworks": [],
-      "programming": [
-        "python",
-        "shell"
-      ],
-      "tools": [
-        "vscode"
-      ]
-    },
-    "probability-statistics": {
-      "time": "05/22",
-      "description": "A set of probabilistic and plotting problems and resolutions using statistical computing and graphics",
-      "url": "https://github.com/jjasferreira/probability-statistics-r",
-      "icon": "github.svg",
-      "frameworks": [],
-      "programming": [
-        "r"
-      ],
-      "tools": [
-        "rstudio",
-        "obsidian"
-      ]
-    },
-    "target-selection": {
-      "time": "04/22",
-      "description": "A graphical experiment assessing human-computer interaction and logging performance metrics",
-      "url": "https://editor.p5js.org/joaoncardoso/sketches/J5S0QX6Nd",
-      "icon": "p5js.svg",
-      "frameworks": [
-        "p5js"
-      ],
-      "programming": [
-        "javascript"
-      ],
-      "tools": [
-        "firebase"
-      ]
-    },
-    "cryptoquiver": {
-      "time": "03/22",
-      "description": "https://www.youtube.com/watch?v=jiO3j-C4Tj4",
-      "url": "https://www.figma.com/proto/nZdml6k9GuDtTmfUEVl0QM/Cryptoquiver",
-      "icon": "figma.svg",
-      "frameworks": [],
-      "programming": [],
-      "tools": [
-        "figma"
-      ]
-    },
-    "file-system": {
-      "time": "02/22",
-      "description": null,
-      "url": "https://github.com/jjasferreira/tecnicofs-c",
-      "icon": "github.svg",
-      "frameworks": [],
-      "programming": [
-        "c",
-        "makefile"
-      ],
-      "tools": [
-        "vscode"
-      ]
-    },
-    "lcis-solver": {
-      "time": "01/22",
-      "description": "An implementation of algorithms to solve the LIS and LCIS problems with quadratic time complexity",
-      "url": "https://github.com/joaoncardoso/ASA-cpp",
-      "icon": "github.svg",
-      "frameworks": [],
-      "programming": [
-        "cplusplus",
-        "python",
-        "makefile"
-      ],
-      "tools": [
-        "vscode"
+        "jupyter"
       ]
     }
   }

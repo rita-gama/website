@@ -1,90 +1,47 @@
 {
-  "cmu": {
-    "title": "Visiting Scholar",
-    "subtitle": "Carnegie Mellon University",
-    "logo": "cmu.svg",
-    "logoalt": "CMU",
-    "time": "Nov 2025 - Dec 2025 · 2 mos",
-    "location": "Pittsburgh, Pennsylvania, United States · On-site",
-    "heading": "Computer Science Department · Hosted by professor Ruben Martins",
-    "titleurl": "https://cmuportugal.org/media/cmu-portugal-to-host-12-visiting-research-scholars-at-carnegie-mellon-in-2025",
-    "subtitleurl": "https://www.cmu.edu",
-    "logourl": "https://www.cmu.edu",
-    "headingurl": "https://cmuportugal.org/media/cmu-portugal-to-host-12-visiting-research-scholars-at-carnegie-mellon-in-2025",
-    "color": "#C41230",
-    "concepts": ["ar", "co"],
-    "description": "Benchmarked two unsatisfiable core extraction methodologies for unweighted MaxSAT. Using the MSU3 algorithm and the Glucose 3 solver via PySAT, we compared the lower bound precision and core minimality of internal solver assumptions against external resolution proof processing with DRAT-trim.",
-    "media": [
-      {
-        "title": "A Comparative Analysis of UNSAT Core Extraction Methodologies for Unweighted MaxSAT",
-        "url": "../docs/a-comparative-analysis-of-unsat-core-extraction-methodologies-for-unweighted-maxsat.pdf",
-        "icon": "ui/filetext.svg"
-      },
-      {
-        "title": "maxsat-core-bench",
-        "url": "https://github.com/jjasferreira/maxsat-core-bench",
-        "icon": "tech/github.svg"
-      }
-    ]
-  },
   "inesc": {
     "title": "Research Assistant",
     "subtitle": "INESC-ID",
     "logo": "inesc.svg",
     "logoalt": "INESC",
-    "time": "Apr 2025 - Oct 2025 · 7 mos",
-    "location": "Lisbon, Portugal · Hybrid",
-    "heading": "OptiGov Project · Supervised by professor Alessandro Gianola",
-    "titleurl": "https://optigov-project.github.io",
+    "time": "Jan 2026 - Jun 2025 · 6 mos",
+    "location": "Lisbon, Portugal · On-site",
+    "heading": "Project SYNTHESIS · Supervised by professor Emanuel Gonçalves",
+    "titleurl": "https://github.com/QuantitativeBiology/GainPro",
     "subtitleurl": "https://www.inesc-id.pt",
     "logourl": "https://www.inesc-id.pt",
-    "headingurl": "https://optigov-project.github.io",
+    "headingurl": "https://github.com/QuantitativeBiology/GainPro",
     "color": "#83B035",
-    "concepts": ["sv", "fm", "da", "bpm"],
-    "description": "Applied ACTLChecker to validate a rigorous implementation of the BPMN of the ICT Approval Protocol at IGFEJ, a public body under the Portuguese Ministry of Justice, by checking concurrent logs against property specifications in Action Temporal Logic, a formalism created in my master's thesis.",
+    "concepts": ["ai", "cb", "genai"],
+    "description": "",
     "media": [
       {
-        "title": "First-Order Linear Temporal Logic for Testing Distributed Protocols",
-        "url": "https://ceur-ws.org/Vol-4142/paper5.pdf",
-        "icon": "ui/externallink.svg"
-      },
-      {
-        "title": "Slides",
-        "url": "../docs/first-order-linear-temporal-logic-for-testing-distributed-protocols-slides.pdf",
-        "icon": "ui/presentation.svg"
-      },
-      {
-        "title": "Application of ACTLChecker to the ICT Approval Protocol at IGFEJ as part of OptiGov",
-        "url": "../docs/application-of-actlchecker-to-the-ict-approval-protocol-at-igfej-as-part-of-optigov.pdf",
-        "icon": "ui/filetext.svg"
-      },
-      {
-        "title": "optigov-actl-check",
-        "url": "https://github.com/AlessandroGianola/optigov-actl-check",
+        "title": "GainPro",
+        "url": "https://github.com/QuantitativeBiology/GainPro",
         "icon": "tech/github.svg"
       }
     ]
   },
-  "ist": {
-    "title": "Teaching Assistant",
-    "subtitle": "Instituto Superior Técnico",
-    "logo": "ist.svg",
-    "logoalt": "IST",
-    "time": "Apr 2025 - Jul 2025 · 4 mos",
-    "location": "Lisbon, Portugal · On-site",
-    "heading": "Databases Course · Bachelor, Computer Science and Engineering",
-    "titleurl": "https://fenix.tecnico.ulisboa.pt/cursos/leic-a/disciplina-curricular/845953938489547",
-    "subtitleurl": "https://tecnico.ulisboa.pt",
-    "logourl": "https://tecnico.ulisboa.pt",
-    "headingurl": "https://fenix.tecnico.ulisboa.pt/cursos/leic-a/disciplina-curricular/845953938489547",
-    "color": "#009DE0",
-    "concepts": ["dbms", "dss"],
-    "description": "Instructed lab sessions and coordinated student groups in the design of relational databases, guiding entity-relationship modeling, schema normalization, transaction processing, and concurrency control while providing technical support for SQL implementation, project evaluation, and exam proctoring.",
+  "link": {
+    "title": "Software Engineer Intern",
+    "subtitle": "Link Consulting",
+    "logo": "",
+    "logoalt": "LINK",
+    "time": "July 2023 - Sep 2023 · 2 mos",
+    "location": "Lisbon, Portugal · Hybrid",
+    "heading": "",
+    "titleurl": "https://github.com/QuantitativeBiology/GainPro",
+    "subtitleurl": "https://linkconsulting.com",
+    "logourl": "https://linkconsulting.com",
+    "headingurl": "",
+    "color": "#83B035",
+    "concepts": [],
+    "description": "",
     "media": [
       {
-        "title": "Teaching Excellence Diploma 2024/2025",
-        "url": "https://youtube.com/live/psVG7Cm89Ps?si=Qr2covJLH60H5dPV&t=5648",
-        "icon": "ui/filebadge.svg"
+        "title": "GainPro",
+        "url": "../docs/link-internship.pdf",
+        "icon": "ui/filetext.svg"
       }
     ]
   }

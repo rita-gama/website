@@ -14,7 +14,6 @@
   import profiles from "@content/profiles.json";
   import education from "@content/education.json";
   import experience from "@content/experience.json";
-  import achievements from "@content/achievements.json";
   import profile from "@content/profile.json";
 
   import house from "@icons/ui/house.svg?raw";
@@ -92,11 +91,6 @@
             history={education}
             headingClass="pl-14.5"
           />
-          <History
-            title="Achievements"
-            history={achievements}
-            headingClass="pl-14.5"
-          />
           <Portfolio />
           <Volunteering />
         </div>
@@ -121,11 +115,6 @@
         headingClass="xs:pl-14.5"
       />
       <History title="Education" history={education} headingClass="pl-14.5" />
-      <History
-        title="Achievements"
-        history={achievements}
-        headingClass="pl-14.5"
-      />
       <Portfolio />
       <Volunteering />
     </div>
@@ -145,11 +134,6 @@
         headingClass="xs:pl-14.5"
       />
       <History title="Education" history={education} headingClass="pl-14.5" />
-      <History
-        title="Achievements"
-        history={achievements}
-        headingClass="pl-14.5"
-      />
       <Portfolio />
       <Volunteering />
     </div>
@@ -165,11 +149,6 @@
       />
       <Projects />
       <History title="Education" history={education} headingClass="pl-14.5" />
-      <History
-        title="Achievements"
-        history={achievements}
-        headingClass="pl-14.5"
-      />
       <Portfolio />
       <Volunteering />
       <Contact title="Profiles" contact={profiles} />

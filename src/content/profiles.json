@@ -1,27 +1,7 @@
 {
-  "scholar": {
-    "title": "José João Ferreira",
-    "url": "https://scholar.google.com/citations?hl=en-US&user=pNoCL9QAAAAJ",
-    "icon": "tech/scholar.svg"
-  },
-  "dblp": {
-    "title": "José João Ferreira",
-    "url": "https://dblp.org/pid/428/5385.html",
-    "icon": "tech/dblp.svg"
-  },
   "orcid": {
-    "title": "José João Ferreira",
-    "url": "https://orcid.org/0009-0007-2543-6766",
+    "title": "Rita Gama",
+    "url": "https://orcid.org/0009-0007-0534-1663",
     "icon": "tech/orcid.svg"
-  },
-  "x": {
-    "title": "jjasferreira",
-    "url": "https://x.com/jjasferreira",
-    "icon": "tech/x.svg"
-  },
-  "youtube": {
-    "title": "jjasferreira",
-    "url": "https://www.youtube.com/@jjasf",
-    "icon": "tech/youtube.svg"
   }
 }

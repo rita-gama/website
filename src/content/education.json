@@ -6,50 +6,15 @@
     "logoalt": "IST",
     "time": "Sep 2023 - Nov 2025",
     "location": "Alameda · Lisbon, Portugal",
-    "heading": "Grade: 17.35",
+    "heading": "Grade: 16.42",
     "titleurl": "https://tecnico.ulisboa.pt",
     "subtitleurl": "https://fenix.tecnico.ulisboa.pt/cursos/meic-a",
     "logourl": "https://tecnico.ulisboa.pt",
     "headingurl": null,
     "color": "#009DE0",
-    "concepts": ["se", "ds"],
-    "description": "Relevant coursework: Software Architecture, Software Specification, Advanced Programming, Software Testing and Validation, Data Science, Information Visualization, Cloud Computing and Virtualization, Data Analysis and Integration, Data and Information Systems Management, Network and Computer Security, User-Centered Design and Evaluation.",
+    "concepts": ["ai", "cb", "ml"],
+    "description": "Relevant coursework: Autonomous Agents and Multi-Agent Systems, Search and Planning, Natural Language, Planning Learning and Intelligent Decision Making, Deep Learning, Data Science, Network Science, Computational Biology and Information Processing and Retrieval.",
     "media": [
-      {
-        "title": "Exploring Formal Verification for First-Order Linear Temporal Logic Modulo Theories",
-        "url": "../docs/exploring-formal-verification-for-first-order-linear-temporal-logic-modulo-theories.pdf",
-        "icon": "ui/filetext.svg"
-      },
-      {
-        "title": "Slides",
-        "url": "../docs/exploring-formal-verification-for-first-order-linear-temporal-logic-modulo-theories-slides.pdf",
-        "icon": "ui/presentation.svg"
-      },
-      {
-        "title": "Specifying and Testing Distributed Protocols with Action Temporal Logic",
-        "url": "https://scholar.tecnico.ulisboa.pt/records/HYZEBk_VWzVEEi4ZK7cW2PM6t-ERrvRsA9Xu",
-        "icon": "ui/externallink.svg"
-      },
-      {
-        "title": "Extended Abstract",
-        "url": "../docs/specifying-and-testing-distributed-protocols-with-action-temporal-logic-extended-abstract.pdf",
-        "icon": "ui/filetext.svg"
-      },
-      {
-        "title": "Slides",
-        "url": "../docs/specifying-and-testing-distributed-protocols-with-action-temporal-logic-slides.pdf",
-        "icon": "ui/presentation.svg"
-      },
-      {
-        "title": "actl-checker",
-        "url": "https://github.com/jjasferreira/actl-checker",
-        "icon": "tech/github.svg"
-      },
-      {
-        "title": "Academic Excellence Diploma 2024/2025",
-        "url": "https://youtube.com/live/psVG7Cm89Ps?si=6pn16C6b28JVali&t=2729",
-        "icon": "ui/filebadge.svg"
-      },
       {
         "title": "Master's Degree Certificate",
         "url": "../docs/master-degree-certificate.pdf",
@@ -64,7 +29,7 @@
     "logoalt": "IST",
     "time": "Oct 2020 - Jul 2023",
     "location": "Alameda · Lisbon, Portugal",
-    "heading": "Grade: 16.12",
+    "heading": "Grade: 15.3",
     "titleurl": "https://tecnico.ulisboa.pt",
     "subtitleurl": "https://fenix.tecnico.ulisboa.pt/cursos/leic-a",
     "logourl": "https://tecnico.ulisboa.pt",
@@ -74,57 +39,9 @@
     "description": "Relevant coursework: Linear Algebra, Differential and Integral Calculus, Logic for Programming, Discrete Mathematics, Object-Oriented Programming, Operating Systems, Databases, Artificial Intelligence, Theory of Computation, Machine Learning, Computer Networks, Compilers, Computer Graphics, Software Engineering, Distributed Systems.",
     "media": [
       {
-        "title": "Academic Merit Diploma 2020/2021",
-        "url": "../docs/academic-merit-diploma-2020-2021.pdf",
-        "icon": "ui/filebadge.svg"
-      },
-      {
-        "title": "Academic Merit Diploma 2021/2022",
-        "url": "../docs/academic-merit-diploma-2021-2022.pdf",
-        "icon": "ui/filebadge.svg"
-      },
-      {
-        "title": "Academic Merit Diploma 2022/2023",
-        "url": "../docs/academic-merit-diploma-2022-2023.pdf",
-        "icon": "ui/filebadge.svg"
-      },
-      {
         "title": "Bachelor's Degree Certificate",
         "url": "../docs/bachelor-degree-certificate.pdf",
         "icon": "ui/graduationcap.svg"
-      }
-    ]
-  },
-  "senior": {
-    "title": "Escola Secundária São Pedro",
-    "subtitle": "Senior, Scientific-Humanistic Track: Science and Technology",
-    "logo": "essp.png",
-    "logoalt": "ESSP",
-    "time": "Sep 2017 - Jul 2020",
-    "location": "Vila Real, Portugal",
-    "heading": "Grade: 19.25",
-    "titleurl": "https://escolasaopedro.pt",
-    "subtitleurl": null,
-    "logourl": "https://escolasaopedro.pt",
-    "headingurl": null,
-    "color": "#1CB3AD",
-    "concepts": null,
-    "description": null,
-    "media": [
-      {
-        "title": "Excellence Diploma 2017/2018",
-        "url": null,
-        "icon": "ui/filebadge.svg"
-      },
-      {
-        "title": "Excellence Diploma 2018/2019",
-        "url": null,
-        "icon": "ui/filebadge.svg"
-      },
-      {
-        "title": "Excellence Diploma 2019/2020",
-        "url": null,
-        "icon": "ui/filebadge.svg"
       }
     ]
   }

@@ -123,16 +123,6 @@
                   class="group relative inline-block rounded-full border border-(--darkcolor)/33 dark:border-(--lightcolor)/33 bg-(--lightcolor)/7.5 dark:bg-(--darkcolor)/10 text-(--darkcolor) dark:text-(--lightcolor) px-2 pt-0.5 pb-[3.5px] text-[11px] font-medium cursor-help focus:outline-none text-left appearance-none"
                 >
                   {concepts[concept as keyof typeof concepts]?.name}
-
-                  <span
-                    class="absolute bottom-full left-1/2 z-20 mb-2 hidden group-hover:block group-focus:block w-48 -translate-x-1/2 rounded bg-gray-900 px-2 py-1 text-center text-[10px] font-normal leading-tight text-white normal-case shadow-xl pointer-events-none whitespace-normal"
-                  >
-                    <span
-                      class="absolute -ml-1 border-4 border-transparent top-full left-1/2 border-t-gray-900"
-                    ></span>
-
-                    {concepts[concept as keyof typeof concepts]?.ccs}
-                  </span>
                 </button>
               {/each}
             </div>

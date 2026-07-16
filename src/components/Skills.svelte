@@ -1,7 +1,7 @@
 <script lang="ts">
   import skills from "@content/skills.json";
   let { title = "Skills" }: { title?: string } = $props();
-  const sections = ["frameworks", "programming", "tools"] as const;
+  const sections = ["programming", "tools"] as const;
   const icons = import.meta.glob("../icons/tech/*.svg", {
     query: "?raw",
     import: "default",
@@ -36,7 +36,7 @@
       </a>
     {/each}
   </div>
-  <!-- Frameworks, Programming, Tools -->
+  <!-- Programming, Tools -->
   {#each sections as section}
     <div
       id={section}

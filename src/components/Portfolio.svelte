@@ -81,9 +81,9 @@
                   </p>
                 {/if}
               </a>
-              {#if ["frameworks", "programming", "tools"].some((sec) => (project[sec] ?? []).length > 0)}
+              {#if ["programming", "tools"].some((sec) => (project[sec] ?? []).length > 0)}
                 <div class="flex flex-wrap gap-1 py-0.75">
-                  {#each ["frameworks", "programming", "tools"] as sec}
+                  {#each ["programming", "tools"] as sec}
                     {#each project[sec] ?? [] as tech}
                       {@const item = (skills as any)[sec][tech]}
                       {@const icon = icons["../icons/tech/" + item.icon]}
