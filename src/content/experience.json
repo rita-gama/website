@@ -4,16 +4,16 @@
     "subtitle": "INESC-ID",
     "logo": "inesc.svg",
     "logoalt": "INESC",
-    "time": "Jan 2026 - Jun 2025 · 6 mos",
+    "time": "Jan 2026 - Jun 2026 · 6 mos",
     "location": "Lisbon, Portugal · On-site",
-    "heading": "Project SYNTHESIS · Supervised by professor Emanuel Gonçalves",
+    "heading": "Project SYNTHESIS · Supervised by Prof. Emanuel Gonçalves",
     "titleurl": "https://github.com/QuantitativeBiology/GainPro",
     "subtitleurl": "https://www.inesc-id.pt",
     "logourl": "https://www.inesc-id.pt",
-    "headingurl": "https://github.com/QuantitativeBiology/GainPro",
+    "headingurl": "https://web.tecnico.ulisboa.pt/emanuel.v.goncalves/",
     "color": "#83B035",
     "concepts": ["ai", "cb", "genai"],
-    "description": "",
+    "description": "Funded under the project SYNTHESIS.\nDevelopment of a specialized bioinformatics tool, GainPro, enabling users to leverage a pre-trained generative AI framework to handle missing values and perform high-accuracy imputation across small-scale to large-scale proteomics datasets.\n\n• Designed and implemented a Generative Adversarial Imputation Network (GAIN), alongside a standard Autoencoder for missing value imputation.\n• Implemented MissForest, a classical machine learning approach, alongside a simple mean imputation model to serve as foundational baselines.\n• Conducted performance benchmarking comparing the generative model (GAIN) against both the deep learning (Autoencoder) and classical (MissForest) frameworks.\n• Developed and integrated an ensemble model combining all the models for a more robust missing value imputation.\n• Engineered robust data processing and integration pipelines to clean, normalize, and handle high-dimensional proteomics datasets.\n(Ongoing Development: Independent post-grant work is currently underway to implement the pre-trained framework's and finalize the software's deployment features.)",
     "media": [
       {
         "title": "GainPro",
@@ -25,21 +25,21 @@
   "link": {
     "title": "Software Engineer Intern",
     "subtitle": "Link Consulting",
-    "logo": "",
+    "logo": "link.svg",
     "logoalt": "LINK",
     "time": "July 2023 - Sep 2023 · 2 mos",
     "location": "Lisbon, Portugal · Hybrid",
     "heading": "",
-    "titleurl": "https://github.com/QuantitativeBiology/GainPro",
+    "titleurl": "https://linkconsulting.com",
     "subtitleurl": "https://linkconsulting.com",
     "logourl": "https://linkconsulting.com",
     "headingurl": "",
-    "color": "#83B035",
+    "color": "#ff9c00",
     "concepts": [],
-    "description": "",
+    "description": "• Developed SQL queries to retrieve and optimize product performance metrics from Azure databases, enhancing product insights.\n• Designed and implemented a Java-based application for automatic generation of BPMN diagrams, streamlining workflow processes.",
     "media": [
       {
-        "title": "GainPro",
+        "title": "Internship Certificate",
         "url": "../docs/link-internship.pdf",
         "icon": "ui/filetext.svg"
       }

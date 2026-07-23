@@ -37,7 +37,7 @@
           {#if hist.logo}
             <a href={hist.logourl} target="_blank" rel="noopener noreferrer">
               <img
-                class="shrink-0 h-12 min-w-12 max-w-12 rounded-lg object-contain transition hover:opacity-80 dark:bg-(--darkcolor)/90"
+                class="shrink-0 h-12 min-w-12 max-w-12 p-0.5 rounded-lg object-contain transition hover:opacity-80 dark:bg-(--darkcolor)/90"
                 src={$dark
                   ? "../images/dark/" + hist.logo
                   : "../images/light/" + hist.logo}
@@ -128,7 +128,7 @@
             </div>
           {/if}
           {#if hist.description}
-            <p class="py-0.75 text-xs text-mist-800 dark:text-mist-200">
+            <p class="py-0.75 text-xs text-mist-800 dark:text-mist-200 whitespace-pre-line">
               {hist.description}
             </p>
           {/if}
