@@ -61,14 +61,14 @@
                 {/if}
               </div>
               {#if project.description}
-                <p class="text-xs text-mist-800 dark:text-mist-200 pb-0.75">
+                <p class="text-[11px] text-mist-800 dark:text-mist-200 pb-0.75">
                   {project.description}
                 </p>
               {/if}
             </a>
-            {#if ["programming", "tools"].some((sec) => (project[sec] ?? []).length > 0)}
+            {#if ["programming", "libraries", "tools"].some((sec) => (project[sec] ?? []).length > 0)}
               <div class="flex flex-wrap gap-1 py-0.75">
-                {#each ["programming", "tools"] as sec}
+                {#each ["programming", "libraries", "tools"] as sec}
                   {#each project[sec] ?? [] as tech}
                     {@const item = (skills as any)[sec][tech]}
                     {@const icon = icons["../icons/tech/" + item.icon]}

@@ -4,7 +4,10 @@
       "time": "06/23",
       "description": "Calendar app for Nextcloud",
       "url": "https://github.com/nextcloud/calendar",
-      "icon": "github.svg"
+      "icon": "github.svg",
+      "programming": [
+        "javascript"
+      ]
     }
   },
   "personal": {
@@ -13,7 +16,7 @@
       "description": "",
       "url": "https://github.com/Paulomen2712/astroninjas",
       "icon": "github.svg",
-      "frameworks": [],
+      "libraries": [],
       "programming": [
         "cplusplus"
       ],
@@ -24,7 +27,7 @@
       "description": "A project which aims to build a robot face which can mimic human expressions.",
       "url": "https://github.com/HackerSchool/inar",
       "icon": "github.svg",
-      "frameworks": [],
+      "libraries": [],
       "programming": [
         "python"
       ],
@@ -34,10 +37,49 @@
   "academic": {
     "gainpro": {
       "time": "06/26",
-      "description": "",
+      "description": "A comprehensive tool for missing data imputation in proteomics datasets. It provides a unified pipeline for multiple imputation strategies, ranging from traditional statistical baselines (Mean) and machine learning algorithms (MissForest) to deep generative models (GAIN, Autoencoders).",
       "url": "https://github.com/QuantitativeBiology/GainPro",
       "icon": "github.svg",
-      "frameworks": [],
+      "libraries": [
+        "pytorch",
+        "numpy",
+        "matplotlib",
+        "pandas",
+        "scikit-learn"
+      ],
+      "programming": [
+        "python"
+      ],
+      "tools": [
+        "jupyter"
+      ]
+    },
+    "deep-learning": {
+      "time": "01/24",
+      "description": "Deep Learning coursework (IST): Algorithms and models built from scratch in NumPy and PyTorch. Covering linear classifiers, MLPs, CNNs, Transformers, and ASR.",
+      "url": "https://github.com/rita-gama/deep-learning",
+      "icon": "github.svg",
+      "libraries": [
+        "pytorch",
+        "numpy",
+        "matplotlib"
+      ],
+      "programming": [
+        "python"
+      ],
+      "tools": [
+        "jupyter"
+      ]
+    },
+    "padi": {
+      "time": "04/24",
+      "description": "Planning, Learning and Intelligent Decision Making coursework (IST): Algorithms and agents built from scratch in Python. Covering MDPs, Dynamic Programming, Q-Learning, Policy Gradients, and Deep RL.",
+      "url": "https://github.com/rita-gama/padi",
+      "icon": "github.svg",
+      "libraries": [
+        "matplotlib",
+        "numpy"
+      ],
       "programming": [
         "python"
       ],
@@ -46,4 +88,5 @@
       ]
     }
   }
+  
 }

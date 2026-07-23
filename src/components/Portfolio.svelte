@@ -41,12 +41,12 @@
             const target = e.currentTarget as HTMLElement;
             scrollPositions[section] = { left: target.scrollLeft, width: target.clientWidth };
           }}
-          class="grid grid-rows-2 grid-flow-col auto-cols-[100%] xs:auto-cols-[50%] md:auto-cols-[33.333%] overflow-x-auto snap-x snap-mandatory [&::-webkit-scrollbar]:hidden [-ms-overflow-style:none] scrollbar-none"
+          class="grid grid-rows-1 grid-flow-col auto-cols-[100%] xs:auto-cols-[50%] md:auto-cols-[50%] overflow-x-auto snap-x snap-mandatory [&::-webkit-scrollbar]:hidden [-ms-overflow-style:none] scrollbar-none"
         >
           {#each Object.entries(sectionprojects as Record<string, any>) as [title, project], j}
             {@const icon = icons["../icons/tech/" + project.icon]}
             <div
-              class="snap-start border-mist-200 dark:border-mist-800 pb-1.5 even:border-t even:pt-2 px-3 border-l"
+              class="snap-start border-mist-200 dark:border-mist-800 pb-1.5 px-3 border-l"
             >
               <div
               class="group underline-offset-[1.5px] hover:opacity-90 hover:-translate-y-px hover:translate-x-px"
@@ -76,14 +76,14 @@
                   {/if}
                 </div>
                 {#if project.description}
-                  <p class="text-xs text-mist-800 dark:text-mist-200 pb-0.75">
+                  <p class="text-[11px] text-mist-800 dark:text-mist-200 pb-0.75">
                     {project.description}
                   </p>
                 {/if}
               </a>
-              {#if ["programming", "tools"].some((sec) => (project[sec] ?? []).length > 0)}
+              {#if ["programming", "libraries", "tools"].some((sec) => (project[sec] ?? []).length > 0)}
                 <div class="flex flex-wrap gap-1 py-0.75">
-                  {#each ["programming", "tools"] as sec}
+                  {#each ["programming", "libraries", "tools"] as sec}
                     {#each project[sec] ?? [] as tech}
                       {@const item = (skills as any)[sec][tech]}
                       {@const icon = icons["../icons/tech/" + item.icon]}
@@ -116,9 +116,9 @@
           {/each}
         </div>
         {#if items.length > 2}
-          {@const totalPagesDefault = Math.ceil(items.length / 2)}
-          {@const totalPagesXS = Math.ceil(items.length / 4)}
-          {@const totalPagesMD = Math.ceil(items.length / 6)}
+          {@const totalPagesDefault = items.length}
+          {@const totalPagesXS = Math.ceil(items.length / 2)}
+          {@const totalPagesMD = Math.ceil(items.length / 2)}
           
           <div class="flex justify-center gap-1.5 pt-3 pb-0.75">
             {#each Array(totalPagesDefault) as _, pageId}
