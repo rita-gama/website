@@ -19,6 +19,11 @@
         "title": "Master's Degree Certificate",
         "url": "../docs/master-degree-certificate.pdf",
         "icon": "ui/graduationcap.svg"
+      },
+      {
+        "title": "Academic Merit Diploma 2024/2025",
+        "url": "../docs/academic-merit-diploma.pdf",
+        "icon": "ui/filebadge.svg"
       }
     ]
   },
