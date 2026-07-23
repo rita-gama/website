@@ -39,6 +39,13 @@
       "level": 3,
       "color": "#ED8B00"
     },
+    "javascript": {
+      "name": "JavaScript",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+      "icon": "javascript.svg",
+      "level": 0,
+      "color": "#F0DB4F"
+    },
     "python": {
       "name": "Python",
       "url": "https://python.org",
@@ -73,6 +80,43 @@
       "icon": "tex.svg",
       "level": 0,
       "color": "#04652F"
+    }
+  },
+  "libraries": {
+    "matplotlib": {
+      "name": "Matplotlib",
+      "url": "https://matplotlib.org",
+      "icon": "matplotlib.svg",
+      "level": 3,
+      "color": "#004cff"
+    },
+    "numpy": {
+      "name": "NumPy",
+      "url": "https://numpy.org",
+      "icon": "numpy.svg",
+      "level": 4,
+      "color": "#4E76D0"
+    },
+    "pandas": {
+      "name": "Pandas",
+      "url": "https://pandas.pydata.org",
+      "icon": "pandas.svg",
+      "level": 4,
+      "color": "#ffca00"
+    },
+    "scikit-learn": {
+      "name": "Scikit-learn",
+      "url": "https://scikit-learn.org",
+      "icon": "scikit-learn.svg",
+      "level": 3,
+      "color": "#f89939"
+    },
+    "pytorch": {
+      "name": "PyTorch",
+      "url": "https://pytorch.org",
+      "icon": "pytorch.svg",
+      "level": 3,
+      "color": "#ee4c2c"
     }
   },
   "tools": {
