@@ -24,6 +24,16 @@
         "title": "Academic Merit Diploma 2024/2025",
         "url": "../docs/academic-merit-diploma.pdf",
         "icon": "ui/filebadge.svg"
+      },
+      {
+        "title": "GAIN-DANN: A Domain-Adversarial Generative Model for Missing Data Imputation in Proteomics",
+        "url": "../docs/thesis.pdf",
+        "icon": "ui/filetext.svg"
+      },
+      {
+        "title": "Extended Abstract",
+        "url": "../docs/extended-abstract.pdf",
+        "icon": "ui/filetext.svg"
       }
     ]
   },
@@ -34,7 +44,7 @@
     "logoalt": "IST",
     "time": "Oct 2020 - Jul 2023",
     "location": "Alameda · Lisbon, Portugal",
-    "heading": "Grade: 15.3",
+    "heading": "Grade: 15.30",
     "titleurl": "https://tecnico.ulisboa.pt",
     "subtitleurl": "https://fenix.tecnico.ulisboa.pt/cursos/leic-a",
     "logourl": "https://tecnico.ulisboa.pt",
