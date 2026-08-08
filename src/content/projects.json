@@ -2,7 +2,7 @@
   "contributions": {
     "nextcloud": {
       "time": "06/23",
-      "description": "Calendar app for Nextcloud",
+      "description": "Nextcloud Calendar is an open-source, self-hosted scheduling tool integrated into Nextcloud's ecosystem.",
       "url": "https://github.com/nextcloud/calendar",
       "icon": "github.svg",
       "programming": [
@@ -13,7 +13,7 @@
   "personal": {
     "robotics": {
       "time": "03/25",
-      "description": "",
+      "description": "Policia is an autonomous robot using flood-fill navigation to chase a moving target through a known maze.",
       "url": "https://github.com/Paulomen2712/astroninjas",
       "icon": "github.svg",
       "libraries": [],

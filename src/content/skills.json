@@ -71,7 +71,7 @@
       "name": "SQL",
       "url": "https://iso.org/standard/76583.html",
       "icon": "postgresql.svg",
-      "level": 2,
+      "level": 3,
       "color": "#336791"
     },
     "tex": {
