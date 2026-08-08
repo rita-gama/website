@@ -6,7 +6,8 @@ export default defineConfig({
   build: {
     assets: 'assets' 
   },
-  site: 'https://jjasf.pt',
+  site: 'https://rita-gama.github.io',
+  base: '/website',
   integrations: [svelte()],
   vite: {
     plugins: [tailwindcss()],
