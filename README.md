@@ -1,6 +1,6 @@
 # website
 
-My personal website, hosted at [jjasf.pt](https://jjasf.pt)
+My personal website, hosted at [ritagama.pt](https://ritagama.pt)
 
 ---
 
@@ -8,8 +8,8 @@ My personal website, hosted at [jjasf.pt](https://jjasf.pt)
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/jjasferreira/jjasferreira.github.io
-cd jjasferreira.github.io
+git clone https://github.com/jjasferreira/website
+cd jjasferreira/website
 ```
 
 ### 2. Install dependencies
