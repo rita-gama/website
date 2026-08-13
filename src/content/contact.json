@@ -4,6 +4,11 @@
     "url": "mailto:ritagama199@gmail.com",
     "icon": "ui/mail.svg"
   },
+  "website": {
+    "title": "ritagama.pt",
+    "url": "https://ritagama.pt",
+    "icon": "ui/globe.svg"
+  },
   "location": {
     "title": "Lisbon, Portugal",
     "url": "https://google.com/search?q=Lisbon,+Portugal",
