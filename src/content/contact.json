@@ -4,24 +4,24 @@
     "url": "mailto:ritagama199@gmail.com",
     "icon": "ui/mail.svg"
   },
-  "website": {
-    "title": "ritagama.pt",
-    "url": "https://ritagama.pt",
-    "icon": "ui/globe.svg"
-  },
   "location": {
     "title": "Lisbon, Portugal",
     "url": "https://google.com/search?q=Lisbon,+Portugal",
     "icon": "ui/mappin.svg"
+  },
+  "linkedin": {
+    "title": "Rita Gama",
+    "url": "https://linkedin.com/in/rita-gama",
+    "icon": "tech/linkedin.svg"
   },
   "github": {
     "title": "rita-gama",
     "url": "https://github.com/rita-gama",
     "icon": "tech/github.svg"
   },
-  "linkedin": {
-    "title": "Rita Gama",
-    "url": "https://linkedin.com/in/rita-gama",
-    "icon": "tech/linkedin.svg"
+  "website": {
+    "title": "ritagama.pt",
+    "url": "https://ritagama.pt",
+    "icon": "ui/globe.svg"
   }
 }
