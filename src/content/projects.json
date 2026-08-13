@@ -37,7 +37,7 @@
   "academic": {
     "gainpro": {
       "time": "06/26",
-      "description": "A comprehensive tool for missing data imputation in proteomics datasets. It provides a unified pipeline for multiple imputation strategies, ranging from traditional statistical baselines (Mean) and machine learning algorithms (MissForest) to deep generative models (GAIN, Autoencoders).",
+      "description": "A unified proteomics pipeline for handling missing data imputation. Integrates traditional statistical baselines (MissForest) and deep generative models (GAIN and Autoencoders) in one place.",
       "url": "https://github.com/QuantitativeBiology/GainPro",
       "icon": "github.svg",
       "libraries": [
