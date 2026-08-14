@@ -71,7 +71,7 @@
         "jupyter"
       ]
     },
-    "padi": {
+    "planning-learning-decision-making": {
       "time": "04/24",
       "description": "Planning, Learning and Intelligent Decision Making coursework (IST): Algorithms and agents built from scratch in Python. Covering MDPs, Dynamic Programming, Q-Learning, Policy Gradients, and Deep RL.",
       "url": "https://github.com/rita-gama/padi",
