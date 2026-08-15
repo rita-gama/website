@@ -52,7 +52,7 @@
           titleClass="hidden lg:block"
           onclick={() =>
             window.open(
-              "https://github.com/jjasferreira/website",
+              "https://github.com/rita-gama/website",
               "_blank",
               "noopener,noreferrer",
             )}
