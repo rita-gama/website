@@ -143,13 +143,14 @@
     }
   },
   "languages": {
-    "por": {
+    "pt": {
       "name": "Portuguese",
       "level": "Native"
     },
-    "eng": {
+    "en": {
       "name": "English",
-      "level": "B2 (Upper Intermediate)"
+      "level": "C2 (Proficient)",
+      "url": "../docs/proficiency-certificate.pdf"
     }
   }
 }

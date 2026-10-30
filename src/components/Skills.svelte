@@ -92,7 +92,18 @@
         class="flex items-center justify-between text-xs text-mist-700 dark:text-mist-200"
       >
         <span class="font-medium">{item.name}</span>
-        <span class="text-right">{item.level}</span>
+        {#if item.url}
+          <a
+            href={item.url}
+            target="_blank"
+            rel="noopener noreferrer"
+            class="text-right hover:underline hover:-translate-y-px hover:translate-x-px focus:underline cursor-pointer"
+          >
+            {item.level}
+          </a>
+        {:else}
+          <span class="text-right">{item.level}</span>
+        {/if}
       </p>
     {/each}
   </div>
